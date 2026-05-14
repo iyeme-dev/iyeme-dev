@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **iyeme-dev/iyeme-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Iyeme Samuel Salubi! 👋
+# Hi there, I'm Iyeme Salubi! 👋
 
-🌍 Based in Wolverhampton, United Kingdom | 💡 Passionate about building responsive, accessible web applications
-
-**Junior Front-End Developer | React Developer | JavaScript | HTML | CSS | UI/UX Enthusiast**
+**Front-End Developer | Email Developer | JavaScript | HTML | CSS | UI/UX Enthusiast**
 
 Welcome to my GitHub profile! I'm a detail-oriented and collaborative Front-End Developer with experience building user-focused web applications. I enjoy turning ideas into clean, functional, and responsive digital experiences using modern web technologies.
 
@@ -32,11 +28,17 @@ Welcome to my GitHub profile! I'm a detail-oriented and collaborative Front-End 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" alt="jQuery"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
 </p>
+
+---
+
+## 🌟 About Me
+
+I am a Junior Front-End Developer with over 2 years of experience building responsive, user-focused web applications using **JavaScript, React, HTML5, and CSS3**.
+
+I have experience working in Agile teams, contributing to user stories, testing solutions, debugging applications, participating in code reviews, and collaborating with designers and stakeholders to deliver quality software.
+
+I am currently expanding my skills through a **Full Stack Software Developer Diploma** with Code Institute and I am passionate about continuous learning, accessibility, clean code, and modern web development.
 
 ---
 
@@ -52,29 +54,19 @@ This project strengthened my skills in building responsive, user-focused applica
 
 ---
 
-## 🌟 About Me
-
-I am a Junior Front-End Developer with over 2 years of experience building responsive, user-focused web applications using **JavaScript, React, HTML5, and CSS3**.
-
-I have experience working in Agile teams, contributing to user stories, testing solutions, debugging applications, participating in code reviews, and collaborating with designers and stakeholders to deliver quality software.
-
-I am currently expanding my skills through a **Full Stack Software Developer Diploma** with Code Institute and I am passionate about continuous learning, accessibility, clean code, and modern web development.
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always open to collaborating on interesting projects, discussing new ideas, or exploring front-end development opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](ADD_YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/iyeme-salubi-dev)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:iyemeaji@yahoo.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-green)](ADD_YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green)]([ADD_YOUR_PORTFOLIO_URL](https://iyeme-dev.github.io/iyeme-portfolio/))
 
 ---
 
 ## 🎉 Fun Fact
 
-I enjoy creating clean and user-friendly interfaces, and I’m always looking for better ways to make websites more accessible, responsive, and enjoyable to use.
+I used to be a medical radiographer, so I’ve gone from scanning brains to debugging code — either way, I’m still looking for what’s broken! 
 
 ---
 
