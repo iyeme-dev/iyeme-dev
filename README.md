@@ -65,7 +65,7 @@ I'm always open to collaborating on interesting projects, discussing new ideas, 
 
 ## 🎉 Fun Fact
 
-I used to be a medical radiographer, so I’ve gone from scanning brains to debugging code — either way, I’m still looking for what’s broken! 
+I used to be a medical radiographer, so I’ve gone from scanning bones to debugging code — either way, I’m still looking for what’s broken! 
 
 ---
 
