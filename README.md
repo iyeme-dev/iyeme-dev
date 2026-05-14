@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Iyeme Salubi! 👋
 
-**Front-End Developer | Email Developer | JavaScript | HTML | CSS | UI/UX Enthusiast**
+**Front-End Developer | Email Developer**
 
 ---
 
