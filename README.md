@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 **Front-End Developer | Email Developer | JavaScript | HTML | CSS | UI/UX Enthusiast**
 
-Welcome to my GitHub profile! I'm a detail-oriented and collaborative Front-End Developer with experience building user-focused web applications. I enjoy turning ideas into clean, functional, and responsive digital experiences using modern web technologies.
-
 ---
 
 ## 🛠️ Technologies & Tools
@@ -34,11 +32,9 @@ Welcome to my GitHub profile! I'm a detail-oriented and collaborative Front-End 
 
 ## 🌟 About Me
 
-I am a Junior Front-End Developer with over 2 years of experience building responsive, user-focused web applications using **JavaScript, React, HTML5, and CSS3**.
+Welcome to my GitHub profile! I'm a detail-oriented and collaborative Front-End Developer with experience building user-focused web applications. I enjoy turning ideas into clean, functional, and responsive digital experiences using modern web technologies.
 
 I have experience working in Agile teams, contributing to user stories, testing solutions, debugging applications, participating in code reviews, and collaborating with designers and stakeholders to deliver quality software.
-
-I am currently expanding my skills through a **Full Stack Software Developer Diploma** with Code Institute and I am passionate about continuous learning, accessibility, clean code, and modern web development.
 
 ---
 
@@ -73,10 +69,10 @@ I used to be a medical radiographer, so I’ve gone from scanning brains to debu
 ```python
 class FrontEndDeveloper:
     def __init__(self):
-        self.name = "Iyeme Samuel Salubi"
-        self.role = "Junior Front-End Developer"
+        self.name = "Iyeme Salubi"
+        self.role = "Front-End Developer"
         self.location = "Wolverhampton, UK"
-        self.skills = ["JavaScript", "React", "HTML5", "CSS3", "Bootstrap", "Git"]
+        self.skills = ["JavaScript", "React", "HTML5", "CSS3", "Bootstrap"]
         self.current_focus = "Building responsive and accessible web applications"
 
     def say_hi(self):
