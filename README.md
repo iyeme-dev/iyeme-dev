@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 **Front-End Developer | Email Developer**
 ---
 
-- 🖥️ Check out my projects on my [Portfolio]([ADD_YOUR_PORTFOLIO_LINK](https://iyeme-dev.github.io/iyeme-portfolio/))
+- 🖥️ Check out my projects on my [Portfolio](https://iyeme-dev.github.io/iyeme-portfolio/] 
 - 📬 Reach me directly via [Email](mailto:iyemeaji@yahoo.com)
 ---
 
