@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 # Hi there, I'm Iyeme Salubi! 👋
 
 **Front-End Developer | Email Developer**
+---
 
+- 🖥️ Check out my projects on my [Portfolio](ADD_YOUR_PORTFOLIO_LINK)
+- 📬 Reach me directly via [Email](mailto:iyemeaji@yahoo.com)
 ---
 
 ## 🛠️ Technologies & Tools
