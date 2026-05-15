@@ -57,7 +57,7 @@ This project strengthened my skills in building responsive, user-focused applica
 
 I'm always open to collaborating on interesting projects, discussing new ideas, or exploring front-end development opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/iyeme-salubi-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/iyeme-salubi-dev)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:iyemeaji@yahoo.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-green)]([ADD_YOUR_PORTFOLIO_URL](https://iyeme-dev.github.io/iyeme-portfolio/))
 
