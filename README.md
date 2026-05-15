@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📬 Reach me directly via [Email](mailto:iyemeaji@yahoo.com)
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
