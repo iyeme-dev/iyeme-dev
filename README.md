@@ -5,7 +5,7 @@
 I build end-to-end data solutions that transform raw data into reliable, analytics-ready datasets using modern cloud, orchestration, streaming, and data-platform technologies.
 
 - 💼 Open to **Data Engineer** opportunities
-- 🖥️ Explore my projects on my [Portfolio]([https://github.com/iyeme-dev](https://iyeme-dev.github.io/iyeme-portfolio/) 
+- 🖥️ Explore my projects on my [Portfolio](https://iyeme-dev.github.io/iyeme-portfolio/)
 - 💻 View my repositories on [GitHub](https://github.com/iyeme-dev)
 - 📬 Reach me via [Email](mailto:iyemeaji@yahoo.com)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/iyeme-salubi-dev)
