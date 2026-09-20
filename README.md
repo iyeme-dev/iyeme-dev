@@ -25,25 +25,15 @@ I enjoy designing reliable data workflows, cleaning and transforming datasets, i
 ## 🛠️ Data Engineering Tech Stack
 
 ### Languages & Data Processing
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" alt="Apache Kafka"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" alt="Apache Spark"/>
-</p>
-
-**Python • SQL • PySpark • Spark Structured Streaming • PostgreSQL**
+*Python • SQL • PySpark • Spark Structured Streaming • PostgreSQL*
 
 ### Data Platforms, Cloud & Warehousing
-
 **Microsoft Fabric • Azure Storage • Fabric Lakehouse • Power BI • Snowflake • Google Cloud Platform • BigQuery • MinIO**
 
 ### Orchestration, Transformation & Infrastructure
-
 **Apache Airflow • dbt • Terraform • Docker • Git • GitHub**
 
 ### Data Engineering Concepts
-
 **ETL/ELT • Data Pipelines • Lakehouse Architecture • Medallion Architecture • Data Cleaning • Data Transformation • Data Validation • Data Warehousing • Data Modelling • Batch Processing • Real-Time Streaming**
 
 ---
