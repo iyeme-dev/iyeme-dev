@@ -28,13 +28,13 @@ I enjoy designing reliable data workflows, cleaning and transforming datasets, i
 *Python • SQL • PySpark • Spark Structured Streaming • PostgreSQL*
 
 ### Data Platforms, Cloud & Warehousing
-**Microsoft Fabric • Azure Storage • Fabric Lakehouse • Power BI • Snowflake • Google Cloud Platform • BigQuery • MinIO**
+*Microsoft Fabric • Azure Storage • Fabric Lakehouse • Power BI • Snowflake • Google Cloud Platform • BigQuery • MinIO*
 
 ### Orchestration, Transformation & Infrastructure
-**Apache Airflow • dbt • Terraform • Docker • Git • GitHub**
+*Apache Airflow • dbt • Terraform • Docker • Git • GitHub*
 
 ### Data Engineering Concepts
-**ETL/ELT • Data Pipelines • Lakehouse Architecture • Medallion Architecture • Data Cleaning • Data Transformation • Data Validation • Data Warehousing • Data Modelling • Batch Processing • Real-Time Streaming**
+*ETL/ELT • Data Pipelines • Lakehouse Architecture • Medallion Architecture • Data Cleaning • Data Transformation • Data Validation • Data Warehousing • Data Modelling • Batch Processing • Real-Time Streaming*
 
 ---
 
