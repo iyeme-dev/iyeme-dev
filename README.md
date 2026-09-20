@@ -1,11 +1,11 @@
 # Hi there, I'm Iyeme Salubi! 👋
 
-**Data Engineer | Microsoft Fabric | Azure | PySpark | SQL | ETL/ELT | Data Pipelines | Power BI**
+**Data Engineer | Microsoft Fabric | Azure | GCP | Python Developer | PySpark | SQL | ETL/ELT | Data Pipelines | Power BI**
 
 I build end-to-end data solutions that transform raw data into reliable, analytics-ready datasets using modern cloud, orchestration, streaming, and data-platform technologies.
 
 - 💼 Open to **Data Engineer** opportunities
-- 🖥️ Explore my projects 
+- 🖥️ Explore my projects on my [Portfolio]([https://github.com/iyeme-dev](https://iyeme-dev.github.io/iyeme-portfolio/) 
 - 💻 View my repositories on [GitHub](https://github.com/iyeme-dev)
 - 📬 Reach me via [Email](mailto:iyemeaji@yahoo.com)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/iyeme-salubi-dev)
@@ -137,6 +137,7 @@ My experience combines software development and data engineering, giving me a st
 I'm interested in **Data Engineering opportunities**, collaborative projects, and conversations around modern data platforms and cloud data pipelines.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/iyeme-salubi-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green)](https://iyeme-dev.github.io/iyeme-portfolio/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:iyemeaji@yahoo.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-black)](https://github.com/iyeme-dev)
 
