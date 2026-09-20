@@ -5,7 +5,7 @@
 I build end-to-end data solutions that transform raw data into reliable, analytics-ready datasets using modern cloud, orchestration, streaming, and data-platform technologies.
 
 - 💼 Open to **Data Engineer** opportunities
-- 🖥️ Explore my projects on my [Portfolio](https://iyeme-dev.github.io/iyeme-portfolio/)
+- 🖥️ Explore my projects 
 - 💻 View my repositories on [GitHub](https://github.com/iyeme-dev)
 - 📬 Reach me via [Email](mailto:iyemeaji@yahoo.com)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/iyeme-salubi-dev)
@@ -138,38 +138,7 @@ I'm interested in **Data Engineering opportunities**, collaborative projects, an
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/iyeme-salubi-dev)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:iyemeaji@yahoo.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-green)](https://iyeme-dev.github.io/iyeme-portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-black)](https://github.com/iyeme-dev)
 
 ---
-
-```python
-class DataEngineer:
-    def __init__(self):
-        self.name = "Iyeme Salubi"
-        self.role = "Data Engineer"
-        self.location = "Wolverhampton, UK"
-        self.skills = [
-            "Python",
-            "SQL",
-            "PySpark",
-            "Microsoft Fabric",
-            "Azure",
-            "Airflow",
-            "Kafka",
-            "Spark",
-            "Snowflake",
-            "dbt",
-            "GCP",
-            "BigQuery",
-            "Terraform"
-        ]
-        self.current_focus = "Building reliable, scalable and analytics-ready data pipelines"
-
-    def say_hi(self):
-        print("Thanks for visiting my GitHub profile!")
-
-me = DataEngineer()
-me.say_hi()
-```
 
