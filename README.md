@@ -1,6 +1,6 @@
 # Hi there, I'm Iyeme Salubi! 👋
 
-**Data Engineer | Microsoft Fabric | Azure | GCP | Python Developer | PySpark | SQL | ETL/ELT | Data Pipelines | Power BI**
+**Data Engineering Consultant | Microsoft Fabric | Azure | GCP | Python Developer | PySpark | SQL | ETL/ELT | Data Pipelines | Power BI**
 
 I build end-to-end data solutions that transform raw data into reliable, analytics-ready datasets using modern cloud, orchestration, streaming, and data-platform technologies.
 
